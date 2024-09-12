@@ -35,9 +35,4 @@ return [
         ],
     ],
 
-    'shopify' => [
-        'login' => env('SHOPIFY_LOGIN'),
-        'password' => env('SHOPIFY_PASSWORD'),
-        'url' => env('SHOPIFY_URL'),
-    ],
 ];
